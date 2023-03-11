@@ -28,7 +28,7 @@ switch, функции ввода/вывода в консоль.
 ![Блок схема](Block_diagram.drawio.png)
 
 
-3. Вы читаете данный фаил **Readme.md**
+3. Вы читаете данный фаил [Readme.md](https://github.com/Aleksandr-colab/Final_test_work_blok1/blob/main/Readme.md)
 4. Программа находится в ветке [main](https://github.com/Aleksandr-colab/Final_test_work_blok1/blob/main/Final_test_work/Program.cs)
 
 Код программы:
